@@ -1,6 +1,5 @@
 """
 Joshua Chen
-Assignment 10.1
 The purpose of this assignent is to create a custom class that contain data attributes, get method, and also personal created methods
 """
 
